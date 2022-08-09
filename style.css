@@ -235,6 +235,9 @@ h1 {
   animation-duration: 3s; 
   animation-delay: 0.5s;
 }
+h2{
+  margin-left: 1.25cm;
+}
 .carousel-inner img {
   width: 100%;
   height: 200px;
